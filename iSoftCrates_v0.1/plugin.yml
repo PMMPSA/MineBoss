@@ -1,0 +1,31 @@
+name: iSoftCrates
+main: iSoftMC\iSoftCrates\Main
+version: 0.1
+api: [3.0.0,2.1.0]
+author: Ghast Noob
+commands:
+ ordinary:
+  description: Cái Gì Không Biết Nữa ^_^
+  permission: isoft.open1
+ rare:
+  description: Cái Gì Không Biết Nữa ^_^
+  permission: isoft.open2
+ legendary:
+  description: Cái Gì Không Biết Nữa ^_^
+  permission: isoft.open3
+ mythic:
+  description: Cái Gì Không Biết Nữa ^_^
+  permission: isoft.open4
+permissions:
+ isoft.open1:
+  default: true
+  description: Cái Gì Không Biết Nữa ^_^
+ isoft.open2:
+  default: true
+  description: Cái Gì Không Biết Nữa ^_^
+ isoft.open3:
+  default: true
+  description: Cái Gì Không Biết Nữa ^_^
+ isoft.open4:
+  default: true
+  description: Cái Gì Không Biết Nữa ^_^

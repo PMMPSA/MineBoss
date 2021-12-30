@@ -1,0 +1,29 @@
+---
+### Thứ tự số ngày
+1:
+  ## Kiểu loại
+  type: item
+  ## ID
+  id: 364
+  ## Meta
+  meta: 0
+  ##Số lượng
+  count: 5
+  ## Đặt tên cho item người chơi nhận được
+  custom_name: Quà Online - Steak
+  ## Thông số Enchant
+  enchant:
+    ## Enchant ID
+    ench_id: 1
+    ## Enchant Level
+    ench_level: 1
+2:
+  type: item
+  id: 364
+  meta: 0
+  count: 10
+  custom_name: Quà Online - Steak
+  enchant:
+    ench_id: 1
+    ench_level: 1
+...

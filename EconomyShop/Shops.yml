@@ -1,0 +1,12 @@
+---
+140:4:-144:Lobby+:
+  x: 140
+  "y": 4
+  z: -144
+  level: Lobby+
+  price: 1
+  item: 1
+  itemName: Stone
+  meta: 0
+  amount: 1
+...
